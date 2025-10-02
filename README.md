@@ -1,4 +1,4 @@
-# Demo-Website
+## Demo-Website
 
 Repo for students to practice creating a pull request after forking a repo
 
@@ -66,3 +66,4 @@ As part of the project, I'll be collecting your favorite animals and displaying 
     l. If there are no conflicts and your changes are approved, the repository owner or collaborators can merge your pull request by clicking the "Merge Pull Request" button.
 
     m. Congratulations, your changes are now part of the original repository!
+
